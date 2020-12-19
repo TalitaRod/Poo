@@ -1,0 +1,6 @@
+/* 
+ * Material destinado ao projeto da disciplina
+ * de Programação Orientada a Objetos do 
+ * Bacharelado em Ciência da Computação 
+ * do IFNMG - Câmpus Montes Claros
+ */
